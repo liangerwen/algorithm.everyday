@@ -1,6 +1,6 @@
 # 两数之和
 
-> 题目来源：[LeetCode-两数之和](https://leetcode-cn.com/problems/two-sum/) 
+> 题目来源：[LeetCode-1.两数之和](https://leetcode-cn.com/problems/two-sum/) 
 >
 > 题目难度：⭐
 
